@@ -1,0 +1,41 @@
+{
+  "freqs": "@array;<i8;22;AwAAAAAAAAAEAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAK\nAAAAAAAAAAsAAAAAAAAADAAAAAAAAAANAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAQAAAAAAAAABEA\nAAAAAAAAEgAAAAAAAAATAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAWAAAAAAAAABcAAAAAAAAAGAAA\nAAAAAAA=",
+  "exp_list": [
+    "catFR1"
+  ],
+  "time_range": [
+    -750,
+    750
+  ],
+  "bin_Hz": 250,
+  "buf_ms": 1500,
+  "logdir": "log",
+  "scheduler": "slurm",
+  "max_jobs": 32,
+  "mem": "25GB",
+  "reg": "ltc",
+  "regions": [
+    "middle temporal gyrus",
+    "stg",
+    "mtg",
+    "itg",
+    "inferior temporal gyrus",
+    "superior temporal gyrus",
+    "tc",
+    "bankssts",
+    "middletemporal",
+    "inferiortemporal",
+    "superiortemporal",
+    "itg inferior temporal gyrus",
+    "mtg middle temporal gyrus",
+    "stg superior temporal gyrus"
+  ],
+  "reg_label": "Lateral Temporal Cortex",
+  "reg_label2": "Lateral Temporal Cortex",
+  "reg_short": "LTC",
+  "exp_str": "catFR1",
+  "expreg": "catFR1_ltc",
+  "outdir": "phase_countdown_catFR1_ltc",
+  "statsdir": "stats_countdown_catFR1_ltc",
+  "logfile": "log/phase_countdown_catFR1_ltc.txt"
+}

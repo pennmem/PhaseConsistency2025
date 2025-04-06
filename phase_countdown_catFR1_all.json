@@ -1,0 +1,26 @@
+{
+  "freqs": "@array;<i8;22;AwAAAAAAAAAEAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAK\nAAAAAAAAAAsAAAAAAAAADAAAAAAAAAANAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAQAAAAAAAAABEA\nAAAAAAAAEgAAAAAAAAATAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAWAAAAAAAAABcAAAAAAAAAGAAA\nAAAAAAA=",
+  "exp_list": [
+    "catFR1"
+  ],
+  "time_range": [
+    -750,
+    750
+  ],
+  "bin_Hz": 250,
+  "buf_ms": 1500,
+  "logdir": "log",
+  "scheduler": "slurm",
+  "max_jobs": 10,
+  "mem": "80GB",
+  "reg": "all",
+  "regions": null,
+  "reg_label": "All",
+  "reg_label2": "Whole Brain",
+  "reg_short": "WB",
+  "exp_str": "catFR1",
+  "expreg": "catFR1_all",
+  "outdir": "phase_countdown_catFR1_all",
+  "statsdir": "stats_countdown_catFR1_all",
+  "logfile": "log/phase_countdown_catFR1_all.txt"
+}

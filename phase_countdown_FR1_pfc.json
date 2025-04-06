@@ -1,0 +1,43 @@
+{
+  "freqs": "@array;<i8;22;AwAAAAAAAAAEAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAK\nAAAAAAAAAAsAAAAAAAAADAAAAAAAAAANAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAQAAAAAAAAABEA\nAAAAAAAAEgAAAAAAAAATAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAWAAAAAAAAABcAAAAAAAAAGAAA\nAAAAAAA=",
+  "exp_list": [
+    "FR1"
+  ],
+  "time_range": [
+    -750,
+    750
+  ],
+  "bin_Hz": 250,
+  "buf_ms": 1500,
+  "logdir": "log",
+  "scheduler": "slurm",
+  "max_jobs": 22,
+  "mem": "36GB",
+  "reg": "pfc",
+  "regions": [
+    "caudal middle frontal cortex",
+    "dlpfc",
+    "precentral gyrus",
+    "precentral gyrus",
+    "superior frontal gyrus",
+    "mfg middle frontal gyrus",
+    "trifg triangular part of the inferior frontal gyrus",
+    "caudalmiddlefrontal",
+    "frontalpole",
+    "lateralorbitofrontal",
+    "medialorbitofrontal",
+    "parsopercularis",
+    "parsorbitalis",
+    "parstriangularis",
+    "rostralmiddlefrontal",
+    "superiorfrontal"
+  ],
+  "reg_label": "Prefrontal Cortex",
+  "reg_label2": "Prefrontal Cortex",
+  "reg_short": "PFC",
+  "exp_str": "FR1",
+  "expreg": "FR1_pfc",
+  "outdir": "phase_countdown_FR1_pfc",
+  "statsdir": "stats_countdown_FR1_pfc",
+  "logfile": "log/phase_countdown_FR1_pfc.txt"
+}

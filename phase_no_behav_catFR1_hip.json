@@ -1,0 +1,67 @@
+{
+  "freqs": "@array;<i8;22;AwAAAAAAAAAEAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAK\nAAAAAAAAAAsAAAAAAAAADAAAAAAAAAANAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAQAAAAAAAAABEA\nAAAAAAAAEgAAAAAAAAATAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAWAAAAAAAAABcAAAAAAAAAGAAA\nAAAAAAA=",
+  "exp_list": [
+    "catFR1"
+  ],
+  "time_range": [
+    -750,
+    750
+  ],
+  "bin_Hz": 250,
+  "spos_ranges": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "buf_ms": 1500,
+  "logdir": "log",
+  "scheduler": "slurm",
+  "max_jobs": 80,
+  "mem": "10GB",
+  "reg": "hip",
+  "regions": [
+    "CA1",
+    "CA2",
+    "CA3",
+    "CA4",
+    "Hippocampal",
+    "Hippocampus",
+    "Sub",
+    "DG",
+    "ba35",
+    "ba35",
+    "\"dg\"",
+    "\"ca1\"",
+    "\"sub\"",
+    "\"ba35\"",
+    "\"ba35\""
+  ],
+  "reg_label": "Hippocampal",
+  "reg_label2": "Hippocampus",
+  "reg_short": "Hip.",
+  "exp_str": "catFR1",
+  "expreg": "catFR1_hip",
+  "outdir": "phasenobeh_catFR1_hip",
+  "logfile": "log/phasenobeh_catFR1_hip.txt"
+}
