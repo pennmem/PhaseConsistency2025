@@ -1,0 +1,189 @@
+subject,gender,age,race,ethnicity,handedness,dominant_hemisphere,site
+R1001P,Female,48.0,Black,Non-Hispanic,Right,Left,University of Pennsylvania
+R1002P,Female,49.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1003P,Female,39.0,Caucasian,Non-Hispanic,Ambidextrous,Left,University of Pennsylvania
+R1006P,Female,20.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1010J,Female,30.0,Caucasian,Non-Hispanic,Ambidextrous,Left,Jefferson Hospital
+R1018P,Male,47.0,Caucasian,Non-Hispanic,Left,Left,University of Pennsylvania
+R1020J,Female,48.0,Caucasian,Non-Hispanic,Left,Left,Jefferson Hospital
+R1022J,Male,24.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1023J,Male,32.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1026D,Female,24.0,Caucasian,Non-Hispanic,Right,Undetermined,Dartmouth University
+R1030J,Male,23.0,Caucasian,Non-Hispanic,Left,Left,Jefferson Hospital
+R1032D,Female,19.0,Caucasian,Non-Hispanic,Right,Left,Dartmouth University
+R1034D,Female,29.0,Caucasian,Non-Hispanic,Right,Left,Dartmouth University
+R1036M,Male,49.0,Caucasian,Hispanic,Left,Right,Mayo Clinic
+R1042M,Female,28.0,Caucasian,Non-Hispanic,Left,Right,Mayo Clinic
+R1045E,Male,51.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1048E,Male,21.0,Caucasian,Non-Hispanic,Right,Undetermined,Emory University
+R1049J,Female,52.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1050M,Male,20.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1051J,Female,24.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1052E,Female,19.0,Caucasian,Non-Hispanic,Right,Undetermined,Emory University
+R1054J,Male,23.0,Caucasian,Non-Hispanic,Right,Undetermined,Jefferson Hospital
+R1057E,Male,53.0,Black,Non-Hispanic,Right,Undetermined,Emory University
+R1059J,Female,44.0,Caucasian,,Right,Left,Jefferson Hospital
+R1060M,Female,36.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1062J,Female,23.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1063C,Male,23.0,Black,Hispanic,Right,Undetermined,Columbia University
+R1065J,Female,34.0,Caucasian,Non-Hispanic,Right,Undetermined,Jefferson Hospital
+R1066P,Male,39.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1067P,Female,45.0,Caucasian,,Right,Left,University of Pennsylvania
+R1068J,Female,39.0,Caucasian,Non-Hispanic,Ambidextrous,Left,Jefferson Hospital
+R1069M,Male,26.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1070T,Female,40.0,Caucasian,Hispanic,Right,Left,UT Southwestern
+R1074M,Male,24.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1075J,Male,50.0,Caucasian,Non-Hispanic,Right,Undetermined,Jefferson Hospital
+R1076D,Male,29.0,,Non-Hispanic,Right,,Dartmouth University
+R1077T,Female,47.0,Caucasian,Non-Hispanic,Right,Undetermined,UT Southwestern
+R1080E,Female,42.0,Black,Non-Hispanic,Right,Undetermined,Emory University
+R1083J,Female,49.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1084T,Male,25.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1089P,Male,36.0,Caucasian,Non-Hispanic,Left,Left,University of Pennsylvania
+R1094T,Male,47.0,Caucasian,Hispanic,Right,Left,UT Southwestern
+R1096E,Female,34.0,Caucasian,Non-Hispanic,Right,Undetermined,Emory University
+R1098D,Female,38.0,Caucasian,Non-Hispanic,Right,Left,Dartmouth University
+R1100D,Female,43.0,Caucasian,Non-Hispanic,Right,Left,Dartmouth University
+R1101T,Female,26.0,Caucasian,Non-Hispanic,Left,Right,UT Southwestern
+R1102P,Male,34.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1104D,Male,22.0,Black,Non-Hispanic,Right,Left,Dartmouth University
+R1105E,Male,25.0,Caucasian,Non-Hispanic,Right,Right,Emory University
+R1106M,Male,26.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1111M,Male,20.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1112M,Female,29.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1113T,Female,36.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1114C,Female,31.0,Caucasian,Non-Hispanic,Ambidextrous,Undetermined,Columbia University
+R1115T,Male,47.0,Caucasian,Non-Hispanic,Left,Left,UT Southwestern
+R1118N,Male,33.0,Caucasian,Non-Hispanic,Right,Undetermined,NINDS
+R1120E,Female,33.0,Caucasian,Non-Hispanic,Left,Undetermined,Emory University
+R1121M,Male,34.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1122E,Female,48.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1123C,Female,29.0,Caucasian,Non-Hispanic,Right,Left,Columbia University
+R1125T,Female,44.0,Black,Non-Hispanic,Right,Left,UT Southwestern
+R1128E,Male,26.0,Black,Non-Hispanic,Right,Undetermined,Emory University
+R1130M,Male,57.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1134T,Male,64.0,Caucasian,Hispanic,Right,Left,UT Southwestern
+R1135E,Male,47.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1136N,Female,56.0,Black,Non-Hispanic,Right,,NINDS
+R1137E,Female,21.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1138T,Male,41.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1142N,Female,43.0,Caucasian,Non-Hispanic,Left,,NINDS
+R1146E,Female,45.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1147P,Male,47.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1148P,Female,59.0,Caucasian,Non-Hispanic,Right,Undetermined,University of Pennsylvania
+R1149N,Female,28.0,Black,Non-Hispanic,Right,Left,NINDS
+R1150J,Female,49.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1151E,Male,36.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1153T,Male,38.0,Caucasian,Hispanic,Left,Left,UT Southwestern
+R1154D,Female,36.0,,Non-Hispanic,Right,Left,Dartmouth University
+R1156D,Male,27.0,,,Right,,Dartmouth University
+R1158T,Female,45.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1161E,Female,53.0,Caucasian,Non-Hispanic,Right,Undetermined,Emory University
+R1162N,Female,30.0,Caucasian,Non-Hispanic,Right,,NINDS
+R1163T,Male,45.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1164E,Male,37.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1166D,Male,38.0,,Non-Hispanic,Left,Left,Dartmouth University
+R1167M,Male,33.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1168T,Male,24.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1169P,Female,43.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1171M,Male,36.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1172E,Female,21.0,Black,Non-Hispanic,Right,Left,Emory University
+R1173J,Female,18.0,Caucasian,Non-Hispanic,Right,Undetermined,Jefferson Hospital
+R1174T,Male,29.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1175N,Male,34.0,Black,Non-Hispanic,Right,,NINDS
+R1176M,Female,41.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1177M,Female,23.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1178P,Male,40.0,Black,Non-Hispanic,Right,Left,University of Pennsylvania
+R1187P,Female,51.0,Caucasian,Non-Hispanic,Right,Undetermined,University of Pennsylvania
+R1189M,Male,22.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1191J,Male,19.0,Caucasian,Non-Hispanic,Right,Undetermined,Jefferson Hospital
+R1193T,Male,37.0,Caucasian,Non-Hispanic,Right,Undetermined,UT Southwestern
+R1195E,Male,44.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1196N,Male,18.0,Caucasian,Non-Hispanic,Left,Undetermined,NINDS
+R1200T,Male,25.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1201P,Male,36.0,Caucasian,Non-Hispanic,Right,Left,University of Pennsylvania
+R1202M,Female,29.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1203T,Female,36.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1204T,Female,25.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1207J,Female,39.0,Pacific Islander,Non-Hispanic,Left,Right,Jefferson Hospital
+R1212P,Male,46.0,Caucasian,Non-Hispanic,Right,Undetermined,University of Pennsylvania
+R1215M,Female,50.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1217T,Male,37.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1221P,Male,57.0,Black,Non-Hispanic,Right,Left,University of Pennsylvania
+R1222M,Female,20.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1223E,Female,42.0,Black,Non-Hispanic,Right,Left,Emory University
+R1226D,Female,41.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1228M,Female,58.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1230J,Female,56.0,Caucasian,Non-Hispanic,Right,,Jefferson Hospital
+R1231M,Male,20.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1232N,Male,27.0,Caucasian,Non-Hispanic,Ambidextrous,Left,NINDS
+R1234D,Male,25.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1236J,Female,51.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1240T,Female,37.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1241J,Male,52.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1243T,Male,63.0,Caucasian,Non-Hispanic,Ambidextrous,Left,UT Southwestern
+R1247P,Female,61.0,Caucasian,Non-Hispanic,Right,Undetermined,University of Pennsylvania
+R1250N,Male,29.0,Asian,Non-Hispanic,,Left,NINDS
+R1264P,Female,52.0,Black,Non-Hispanic,Right,Undetermined,University of Pennsylvania
+R1274T,Female,44.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1275D,Male,41.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1281E,Female,43.0,Caucasian,Non-Hispanic,Right,Undetermined,Emory University
+R1283T,Female,29.0,Caucasian,Non-Hispanic,Right,Undetermined,UT Southwestern
+R1286J,Female,57.0,Caucasian,Non-Hispanic,Right,Undetermined,Jefferson Hospital
+R1288P,Male,53.0,Caucasian,Non-Hispanic,Right,,University of Pennsylvania
+R1290M,Female,19.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1291M,Male,35.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1292E,Female,39.0,Black,Non-Hispanic,Right,Left,Emory University
+R1293P,Male,38.0,Asian,Non-Hispanic,Right,,University of Pennsylvania
+R1297T,Male,24.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1298E,Female,24.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1299T,Male,43.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1302M,Male,48.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1304N,Female,33.0,Black,Non-Hispanic,Right,Undetermined,NINDS
+R1308T,Female,40.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1309M,Female,22.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1310J,Male,20.0,Caucasian,Non-Hispanic,Right,,Jefferson Hospital
+R1311T,Male,21.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1313J,Male,22.0,Caucasian,Non-Hispanic,Right,,Jefferson Hospital
+R1315T,Male,22.0,Caucasian,Hispanic,Right,Left,UT Southwestern
+R1316T,Female,32.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1317D,Male,36.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1318N,Male,26.0,Caucasian,Non-Hispanic,Right,,NINDS
+R1321M,Female,36.0,Caucasian,Non-Hispanic,Left,Undetermined,Mayo Clinic
+R1323T,Male,40.0,Black,Non-Hispanic,Right,Left,UT Southwestern
+R1325C,Female,51.0,Black,Non-Hispanic,Right,,Columbia University
+R1328E,Female,28.0,Caucasian,Non-Hispanic,Right,Right,Emory University
+R1329T,Male,37.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1331T,Female,51.0,"Caribbean,Caucasian",Hispanic,Right,Left,UT Southwestern
+R1332M,Male,26.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1334T,Female,38.0,Black,Non-Hispanic,Right,Left,UT Southwestern
+R1336T,Female,51.0,Caucasian,Non-Hispanic,Left,Left,UT Southwestern
+R1337E,Male,55.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1338T,Male,22.0,Caucasian,Hispanic,Left,Left,UT Southwestern
+R1339D,Male,29.0,Caucasian,Non-Hispanic,Left,,Dartmouth University
+R1341T,Male,32.0,Caucasian,Hispanic,Left,Undetermined,UT Southwestern
+R1342M,Male,41.0,Caucasian,Non-Hispanic,Right,Left,Mayo Clinic
+R1345D,Male,48.0,Caribbean,Non-Hispanic,Ambidextrous,,Dartmouth University
+R1346T,Female,37.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1347D,Male,41.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1349T,Female,43.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1351M,Male,58.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1355T,Male,36.0,Black,Non-Hispanic,Left,Undetermined,UT Southwestern
+R1363T,Female,33.0,Caucasian,Non-Hispanic,Left,Left,UT Southwestern
+R1364C,Female,26.0,Caucasian,Non-Hispanic,Right,,Columbia University
+R1367D,Female,48.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1374T,Male,60.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1377M,Male,42.0,Caucasian,Non-Hispanic,Right,Undetermined,Mayo Clinic
+R1378T,Male,38.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1384J,Male,25.0,Caucasian,Non-Hispanic,Left,,Jefferson Hospital
+R1385E,Female,33.0,Caucasian,Non-Hispanic,Right,Left,Emory University
+R1391T,Male,29.0,Caucasian,Non-Hispanic,Ambidextrous,Left,UT Southwestern
+R1395M,Male,41.0,Caucasian,,Right,Left,Mayo Clinic
+R1413D,Male,31.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1415T,Male,54.0,Caucasian,Non-Hispanic,Left,Left,UT Southwestern
+R1425D,Male,36.0,Caucasian,Non-Hispanic,Right,,Dartmouth University
+R1427T,Male,26.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1441T,Male,20.0,Caucasian,Non-Hispanic,Right,Left,UT Southwestern
+R1542J,Male,29.0,Caucasian,Non-Hispanic,Right,Left,Jefferson Hospital
+R1569T,Female,22.0,Caucasian,Non-Hispanic,,Left,UT Southwestern
+R1571T,Male,31.0,Other,Hispanic,,Left,UT Southwestern
