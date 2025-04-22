@@ -8,21 +8,20 @@ the publication will be added here.
 Human and animal studies implicate theta and alpha oscillations in memory
 function.  We tested whether theta, alpha, and beta phase consistency predicts
 memory encoding dynamics in neurosurgical patients performing delayed free
-recall tasks with either unrelated (N=188) or categorized words (N=157).
-Post-stimulus oscillatory phase consistency occurred at 3-21Hz across
-widespread brain regions.  Greater recall of early-list items correlated
-significantly with increased theta (3-7Hz) phase consistency.  Controlling for
-serial position effects, subsequently recalled versus forgotten items showed
-distinct frequency-dependent phase consistency: theta (3-6Hz) and alpha
-(9-14Hz) for unrelated lists, and primarily theta (3-6Hz) and beta (14-19Hz)
-for categorized lists.  Early-list items showed significant theta phase
-consistency differences, while later items showed alpha differences in
-unrelated word lists and both theta and beta differences in categorized word
-lists.  The lateral temporal cortex showed significant theta effects, and the
-prefrontal cortex exhibited both theta and alpha differences.  These findings
-show that with effects across multiple frequency bands, oscillatory phase
-exhibits more consistent alignment with stimuli onset during stronger
-episodic encoding.
+recall tasks with either unrelated (N=188) or categorized words (N=157).  We
+observed widespread post-stimulus phase consistency (3-21 Hz) and, crucially,
+identified distinct frequency-specific patterns predictive of successful
+encoding.  Specifically, increased early-list item recall was significantly
+correlated across subjects with increased theta (3-7 Hz) phase consistency.
+Subsequent recall analyses, controlling for serial position, revealed distinct
+frequency signatures for successfully encoded items: theta (3-6 Hz) and alpha
+(9-14 Hz) for unrelated lists, and theta (3-6 Hz) and beta (14-19 Hz) for
+categorized lists.  Regional analyses for unrelated lists highlighted the
+lateral temporal cortex for theta effects and the prefrontal cortex for both
+theta and alpha consistency.  These findings provide novel evidence for the
+frequency-specific presence of increased phase consistency during episodic
+encoding, revealing its sensitivity to both item context and temporal position
+within a learning sequence.
 
 # License
 
